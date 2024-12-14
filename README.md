@@ -20,6 +20,8 @@
 -**Perform Calculations**: Execute the appropriate operation based on user choice.
 -**Display Results**: Show the result of the calculation to the user.
 -**Error Handling**: Validate inputs and handle errors like division by zero
+![task1](https://github.com/user-attachments/assets/9dceb529-d74e-41ef-a3f0-c8a4f4b775f9)
+
 
 ### Technology used
 -**Python**: Core programming language.
