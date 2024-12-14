@@ -11,7 +11,7 @@
 
 ### Objective : the objective of the project is to perform basic arithmetic operations, handle user input, and display result.
 
-### Key Activities 
+### Key Activities:
 
 -**Define Requirements**: Identify the operations (e.g., add, subtract, multiply) the calculator will perform.<br>
 -**Design Calculator Logic**: Break down the calculator into functions for each operation.<br>
@@ -21,7 +21,7 @@
 -**Error Handling**: Validate inputs and handle errors like division by zero.<br>
 
 
-### Technology used
+### Technology used:
 -**Python**: Core programming language.<br>
 -**Python's Built-in Functions**: input(), print(), and basic arithmetic functions.<br>
 -**Control Structures**: if, else, while loop. <br>
